@@ -14,22 +14,7 @@
   },
   "Door List": {
     "type": "list",
-    "value": [
-      {
-        "__struct_id": 8,
-        "Comment": {
-          "type": "cexostring",
-          "value": "WallDoor"
-        }
-      },
-      {
-        "__struct_id": 8,
-        "Comment": {
-          "type": "cexostring",
-          "value": "BridgeDoor"
-        }
-      }
-    ]
+    "value": []
   },
   "Encounter List": {
     "type": "list",
